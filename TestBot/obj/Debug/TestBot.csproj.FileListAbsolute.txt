@@ -1,0 +1,13 @@
+E:\Bot\Black Jack\TestBot\obj\Debug\TestBot.csprojAssemblyReference.cache
+E:\Bot\Black Jack\TestBot\bin\Debug\TestBot.exe.config
+E:\Bot\Black Jack\TestBot\bin\Debug\TestBot.exe
+E:\Bot\Black Jack\TestBot\bin\Debug\TestBot.pdb
+E:\Bot\Black Jack\TestBot\bin\Debug\Newtonsoft.Json.dll
+E:\Bot\Black Jack\TestBot\bin\Debug\Telegram.Bot.dll
+E:\Bot\Black Jack\TestBot\bin\Debug\Newtonsoft.Json.xml
+E:\Bot\Black Jack\TestBot\bin\Debug\Telegram.Bot.xml
+E:\Bot\Black Jack\TestBot\obj\Debug\TestBot.csproj.CopyComplete
+E:\Bot\Black Jack\TestBot\obj\Debug\TestBot.exe
+E:\Bot\Black Jack\TestBot\obj\Debug\TestBot.pdb
+E:\Bot\Black Jack\TestBot\bin\Debug\Black Jack.dll
+E:\Bot\Black Jack\TestBot\bin\Debug\Black Jack.pdb

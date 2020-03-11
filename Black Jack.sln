@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Black Jack", "Black Jack\Black Jack.csproj", "{F6E9A16A-F437-44A6-83A9-4CF4A8371165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBot", "TestBot\TestBot.csproj", "{2481F892-F038-49CC-9064-228BD13C8D95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6E9A16A-F437-44A6-83A9-4CF4A8371165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E9A16A-F437-44A6-83A9-4CF4A8371165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E9A16A-F437-44A6-83A9-4CF4A8371165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E9A16A-F437-44A6-83A9-4CF4A8371165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2481F892-F038-49CC-9064-228BD13C8D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2481F892-F038-49CC-9064-228BD13C8D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2481F892-F038-49CC-9064-228BD13C8D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2481F892-F038-49CC-9064-228BD13C8D95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4A1A1F0-60C4-4520-95FF-6D067CE0FA72}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+E:\Bot\Black Jack\Black Jack\bin\Debug\Black Jack.dll
+E:\Bot\Black Jack\Black Jack\bin\Debug\Black Jack.pdb
+E:\Bot\Black Jack\Black Jack\obj\Debug\Black Jack.csprojAssemblyReference.cache
+E:\Bot\Black Jack\Black Jack\obj\Debug\Black Jack.dll
+E:\Bot\Black Jack\Black Jack\obj\Debug\Black Jack.pdb
